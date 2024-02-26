@@ -1,6 +1,6 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.print("Alou mundo!");
+        System.out.print("Esse é o ScreenAll");
         }
     }
